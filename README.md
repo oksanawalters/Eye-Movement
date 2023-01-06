@@ -11,4 +11,4 @@ Add other parts of the face
 ## License information
 https://choosealicense.com/licenses/mit/
 
-[MIT][https://choosealicense.com/licenses/mit/]
+[MIT](https://choosealicense.com/licenses/mit/)
