@@ -1,11 +1,13 @@
 # Eye-Movement
 
-## Description of project (minimum 20 words) 
+## Description 
+This Project is an iteractive web page. The eyes you see on the screen follow the mouse movement.
 
 ## How to Run 
 
 ## Future Improvements 
-### add other parts of the face
+Add other parts of the face
 
 ## License information
-### https://choosealicense.com/licenses/mit/
+https://choosealicense.com/licenses/mit/
+<a href="[https://en.wikipedia.org/wiki/Ukraine](https://choosealicense.com/licenses/mit/)">MIT</a>
