@@ -1,4 +1,5 @@
 # Eye-Movement
+<img scr= "Eyes.png" width='300' />
 
 ## Description 
 This Project is an iteractive web page. The eyes you see on the screen will follow your mouse movements on this web page.
